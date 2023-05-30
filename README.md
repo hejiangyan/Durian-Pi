@@ -4,6 +4,10 @@ The Durian Pi HYY-D1 is a single board computer designed by HYY company based on
 - [ Durian Pi Hyy-D1.pdf](./Durian-Pi-D1/Durian-Pi-Hyy-D1.pdf.pdf?raw=true)
 ![](Durian-Pi-D1/imgs/durian_pi_d1_1.png)
 
+![](Durian-Pi-D1/imgs/durian_pi_d1_2.png)
+![](Durian-Pi-D1/imgs/durian_pi_d1_3.png)
+![](Durian-Pi-D1/imgs/durian_pi_d1_4.png)
+![](Durian-Pi-D1/imgs/durian_pi_d1_5.jpeg)
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
